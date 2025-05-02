@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "A frontend app for stock prediction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denson160/stock-predictor.git"
+  },
+  "keywords": [
+    "like",
+    "stock",
+    "prediction",
+    "frontend."
+  ],
+  "author": "Denson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denson160/stock-predictor/issues"
+  },
+  "homepage": "https://github.com/Denson160/stock-predictor#readme"
+}
